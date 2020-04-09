@@ -1,3 +1,4 @@
-# Hacker Slacker Flask
+Hacker Slacker Flask
+====================
 
-Series of Flask tutorials stitched together from hackersandslackers.com
+Series of Flask tutorials stitched together from `<hackersandslackers.com/>`
