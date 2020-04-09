@@ -1,14 +1,18 @@
 [tool.poetry]
 name = "hacker-slacker-flask"
 version = "0.1.0"
-description = ""
+description = "Flask app tutorial from Hackers & Slackers"
 authors = ["Yannis Katsaros <yanniskatsaros@hotmail.com>"]
+readme = "README.rst"
+repository = "https://github.com/yanniskatsaros/hacker-slacker-flask"
 
 [tool.poetry.dependencies]
 python = "^3.7"
+flask = "^1.1.2"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
+pylint = "^2.4.4"
 
 [build-system]
 requires = ["poetry>=0.12"]
